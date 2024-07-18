@@ -37,7 +37,6 @@
 *.mod.c
 *.o
 *.o.*
-*.patch
 *.rmeta
 *.rpm
 *.rsi
@@ -116,7 +115,6 @@ modules.order
 patches-*
 
 # quilt's files
-patches
 series
 
 # ctags files
